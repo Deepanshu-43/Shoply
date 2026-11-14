@@ -1,0 +1,12 @@
+{
+  "name": "mern-ecommerce-starter-root",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "npm --prefix mern-ecommerce-starter run dev",
+    "start": "npm --prefix mern-ecommerce-starter run start",
+    "seed": "npm --prefix mern-ecommerce-starter run seed",
+    "install:all": "npm --prefix mern-ecommerce-starter run install:all"
+  }
+}
